@@ -33,7 +33,6 @@ class UserSeeder extends Seeder
         'telepon' => '081215461828',
         'alamat' => 'Sekaran',
         'foto' => 'namafile.jpg',
-        'no_rekening' => '1234567890',
     ]
     );
 
